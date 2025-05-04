@@ -11,7 +11,7 @@ https://github.com/ngoduykhanh/wireguard-ui/
 ssh root@<ip адрес сервера>
 Вводим пароль
 
-Обновляем по
+Обновляем по  
 
 apt update && apt upgrade -y
 Устанавливаем wireguard
